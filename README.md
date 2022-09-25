@@ -1,10 +1,10 @@
 ### 🛠 About me
 <p>
   <em>
-   Computer technician student at the Institute of <a href="http://www2.ifam.edu.br/campus/tabatinga/"> <b> Exact Sciences and Technology - ICET / UFAM.</b></a><br>
+   Computer technician student at the Institute of <a href="http://www2.ifam.edu.br/campus/tabatinga/"> <b> Exact Sciences and Technology - Campus Tabatinga / IFAM.</b></a><br>
   </em>  <br>
 1. <b>Computer Technician</b>;<br>
-2. <b>Web Full kIDS Developer</b>;<br>
+2. <b>Web Full kids Developer</b>;<br>
 </p>
 
 ### 👥 Connect with me:
@@ -29,4 +29,4 @@ These are some of the technologies and tools that I work with:
 |------------------|-------------|
 |![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=lunapkz&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lunapkz&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
 
- ![Snake animation](https://github.com/lunapkz/lunapkz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Lunapkz/lunapkz/blob/main/.github/workflows/cobrinha.yml)
